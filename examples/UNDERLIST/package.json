@@ -8,6 +8,6 @@
   "author": "6Wunderkinder",
   "license": "MIT",
   "dependencies": {
-    "jquery": "~2.1.0-rc1"
+    "jquery": "~3.5.0"
   }
 }
