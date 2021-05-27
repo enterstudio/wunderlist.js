@@ -42,7 +42,7 @@
   "dependencies": {
     "gulp-cjs": "0.0.2",
     "magiconsole": "~0.2.2",
-    "ws": "~0.4.31",
+    "ws": "~7.4.6",
     "wunderbits.core": "0.1.14",
     "xmlhttprequest": "1.6.0"
   }
